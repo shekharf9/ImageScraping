@@ -3,7 +3,7 @@ GoogleScraper==0.2.1
 PyMySQL==0.7.11
 PyVirtualDisplay==0.2.1
 SQLAlchemy==1.1.11
-aiohttp==2.1.0
+aiohttp==3.7.4
 async-timeout==1.2.1
 certifi==2017.4.17
 chardet==3.0.4
